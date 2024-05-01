@@ -9,3 +9,5 @@ In my technical wrting journey of 9 years, I have been learning some new stuff e
 
  I am currently providing my services to KernelApps Pvt. Ltd. since 2017.
  I am a proactive learner and introduced various changes in my organization like adopting Madcap Flare for creating online help, applying *Microsoft's Writing Style Guide*, and using Markdown for writing our daily articles.
+ You can read all my professional articles that I have written in past years-
+https://www.nucleustechnologies.com/blog/author/aftab-alam/
